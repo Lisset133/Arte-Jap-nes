@@ -1,0 +1,236 @@
+h1 {
+    color: red;
+    font-family: cursive;
+    font-size: 100px;
+    background-color: white;
+}
+p{
+    color: black;
+    margin: 10px 80px;
+    font-family: Georgia, 'Times new roman', 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+
+}
+li{
+    margin: 10px 80px;
+    font-size: 20px;
+}
+body{
+    background-color:#FFB4B4;
+}
+b{
+    color: #B22222;
+    font-size: 25px;
+     font-family: cursive;
+    font-size: 30px;
+}
+footer{
+    background-color:white;
+    color: pink;
+    margin: 10px 80px;
+    border: 5px solid red
+}
+th{
+    text-align: center;
+    margin: 10px 100px;
+    background-color: #ffff00;
+}
+th{
+    border: 2px solid black;
+    background-color:#EA5B6F;
+}
+td{
+    border: 2px solid black;
+    background-color: bisque;
+}
+div{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 2400px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.box{
+    border: 3px solid #EA5B6F;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 1.5;
+    margin: 15px;
+    width: 250px;
+    height: 350px;
+    padding: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    background-color: bisque;
+}
+.box p{
+    text-align: center;
+    word-break: normal;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    width: 100%;
+    margin: 0;
+}
+li{
+    text-align: justify;
+}
+a{
+    color: #EA5B6F;
+}
+button{
+    background-color: #EA5B6F;
+    font-size: 30px;
+    border: 2px solid black;
+    cursor: pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 25px;
+}
+.btn{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    padding: 10px 10px;
+    margin-left: 80px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.contener{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.box_oriental{
+    border: 3px solid #EA5B6F;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 1.5;
+    margin: 10px;
+    width: 250px;
+    height: 1550px;
+    padding: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    background-color: bisque;
+
+}
+.box_oriental p{
+    text-align: center;
+    word-break: normal;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    width: 100%;
+    margin: 0;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 1590px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.caja{
+    border: 3px solid #EA5B6F;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 1.5;
+    margin: 15px;
+    width: 250px;
+    height: 800px;
+    padding: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    background-color: bisque;
+}
+.caja p{
+    text-align: center;
+    word-break: normal;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    width: 100%;
+    margin: 0;
+}
+input{
+    background-color: #EA5B6F;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 25px;
+
+}
+textarea{
+    background-color: #EA5B6F;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+    width: 80%;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+form button{
+    background-color: #EA5B6F;
+    font-size: 20px;
+    border: 2px solid black;
+    cursor:pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 1000px;
+}
+fieldset{
+    margin: 100px;
+    font-family: cursive;
+    font-size: 30px;
+
+}
+form{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+form input:focus{
+    border: 3px solid #285A48;
+    outline: none;
+
+}
+form textarea:focus{
+    border: 3px solid #285A48;
+    outline: none;
+    
+}
+.logo{
+    padding: 10px;
+    border: 0;
+    margin-left: 0px;
+
+}
+.pie{
+    display: flex;
+    justify-content: space-between;
+}
+.textpie{
+    padding: 70px;
+    margin-right: 90px;
+    align-content: center;
+
+}
+.gif{
+    padding: 10px;
+    border: 50;
+    margin-left: 0px;
+}
